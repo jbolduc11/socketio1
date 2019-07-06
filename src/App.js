@@ -1,6 +1,18 @@
+// import {subscibeToTimer} from './api';
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+
+// constructor(props) {
+//   super(props);
+//   subscribeToTimer((err, timestamp) => this.setState({ 
+//     timestamp 
+//   }));
+// }
+
+// state = {
+//   timestamp: 'no timestamp yet'
+// };
 
 function App() {
   return (
